@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-SongSearch/static/css/main.85baf7b7.css",
+    "main.js": "/React-SongSearch/static/js/main.08de5e44.js",
+    "index.html": "/React-SongSearch/index.html",
+    "main.85baf7b7.css.map": "/React-SongSearch/static/css/main.85baf7b7.css.map",
+    "main.08de5e44.js.map": "/React-SongSearch/static/js/main.08de5e44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85baf7b7.css",
+    "static/js/main.08de5e44.js"
+  ]
+}
